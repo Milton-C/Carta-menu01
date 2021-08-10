@@ -1,0 +1,90 @@
+
+header {
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    width: 900px;
+}
+h1 {margin: auto;}
+h2 {margin: auto;}
+
+.menu {
+    padding: 15px;
+}
+.esp{
+    margin-bottom: 15px;
+    list-style:none 
+    
+}
+ul{
+    font-size: 15px;
+    list-style:none 
+}
+nav {
+    display: inline-block;
+    border-right: 1px solid;
+    height: 592px;
+    font-size: 13px;
+    width: 300px;
+    float:left;
+
+    
+}
+main {
+    width: 610px;
+    margin-left: 300px;
+    border-left: 1px solid;
+}
+
+.contenedor {
+    padding: 15px;
+    width: 610px;
+}
+
+dd {
+    margin-left: 0px;
+}
+dl {
+    font-size: 15px;
+}
+dt {
+    font-weight: bolder;
+}
+section img{
+    float: right;
+    width: 260px;
+    padding-right: 25px;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: black    ;
+}  
+
+body {
+    width: 960px;
+    margin: auto;
+}
+h3 {
+    font-weight: normal;
+    font-size: 30px;
+    margin: auto;
+}
+footer{
+    background-color: rgb(48, 43, 43);
+    text-align: right;
+    padding: 5px;
+    height: 96px;
+    width: 900px;
+    
+}
+.redes{
+    font-size: 15px;
+    padding: 5px;
+}
+.logo{
+    float: left;
+    height: 80px;
+    padding: 8px;
+    padding-top: 11px;
+}
